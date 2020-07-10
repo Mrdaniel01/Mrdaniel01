@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola, hola! 👋
 
 Mi nombre Juan Daniel, soy de Bogotá, Administrador de empresas, MBA, Master en Comercio, Tecnólogo en banca y finanzas, entre algunas otras cosas que he estudiado.
 
