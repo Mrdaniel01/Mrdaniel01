@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Mi nombre #### Juan Daniel, soy de Bogotá, Administrador de empresas, MBA, Master en Comercio, Tecnólogo en banca y finanzas, entre algunas otras cosas que he estudiado.
+Mi nombre Juan Daniel, soy de Bogotá, Administrador de empresas, MBA, Master en Comercio, Tecnólogo en banca y finanzas, entre algunas otras cosas que he estudiado.
 
 🌱 Actualmente estudiante de Platzi, construyendo mi carrera como FrontEnd y trabajando para se un maestro ninja en JS, Node y React.
 
