@@ -2,9 +2,9 @@
 
 Mi nombre Juan Daniel, soy de Bogotá, Administrador de empresas, MBA, Master en Comercio, Tecnólogo en banca y finanzas, entre algunas otras cosas que he estudiado.
 
-🌱 Actualmente estudiante de Platzi, construyendo mi carrera como FrontEnd y trabajando para se un maestro ninja en JS, Node y React.
+🌱 Actualmente estudiante de Platzi, construyendo mi carrera como FrontEnd y trabajando para ser un maestro ninja en JS, Node y React.
 
-⚡ Amo la fotografía, los viajes en moto, los FPS, soy la persona mas curiosa que conozco! 
+⚡ Amo la fotografía, los viajes en moto, los FPS, soy la persona más curiosa que conozco! 
 
 😄 Escribeme si quieres que trabajemos en algo, agradecere todo lo que pueda aprender de ti!
 
