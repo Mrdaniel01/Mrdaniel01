@@ -6,7 +6,7 @@ I'm Juan Daniel, I'm from Bogotá, Colombia. I have studied a Business Managemen
 
 ⚡ I love photography,  motorcycle travels, FPS Videogames and I am a really curious person.
 
-😄 Write me if you want to work with me in something, I will thank you everything all that I can learn from you!
+😄 Write me if you want to work with me in something, I will thank you all that I can learn from you!
 
 💬 jd.rios.dev@gmail.com
 
