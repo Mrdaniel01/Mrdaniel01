@@ -8,7 +8,7 @@ Mi nombre Juan Daniel, soy de Bogotá, Administrador de empresas, MBA, Master en
 
 😄 Escribeme si quieres que trabajemos en algo, agradecere todo lo que pueda aprender de ti!
 
-💬 mrdaniel19996@gmail.com
+💬 jd.rios.dev@gmail.com
 
 <!--
 **Mrdaniel01/Mrdaniel01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
