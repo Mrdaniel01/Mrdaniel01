@@ -1,12 +1,12 @@
-### Hola, hola! 👋
+### Hi there! 👋
 
-Mi nombre Juan Daniel, soy de Bogotá, Administrador de empresas, MBA, Master en Comercio, Tecnólogo en banca y finanzas, entre algunas otras cosas que he estudiado.
+I'm Juan Daniel, I'm from Bogotá, Colombia. I have studied a Business Management bachelor. I am MBA and International trade master among some other things.
 
-🌱 Actualmente estudiante de Platzi, construyendo mi carrera como FrontEnd y trabajando para ser un maestro ninja en JS, Node y React.
+🌱 Currently I am studying at Platzi.com, Becoming in Frontend developer and falling in love with Node and React, coming soon, Angular!
 
-⚡ Amo la fotografía, los viajes en moto, los FPS, soy la persona más curiosa que conozco! 
+⚡ I love photography,  motorcycle travels, FPS Videogames and I am a really curious person.
 
-😄 Escribeme si quieres que trabajemos en algo, agradecere todo lo que pueda aprender de ti!
+😄 Write me if you want to work with me in something, I will thank you everything all that I can learn from you!
 
 💬 jd.rios.dev@gmail.com
 
