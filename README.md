@@ -1,12 +1,12 @@
 ### Hi there! 👋
 
-I'm Juan Daniel, I'm from Bogotá, Colombia. I have studied a Business Management bachelor. I am MBA and International trade master among some other things.
+I'm Juan Daniel, I'm from Bogotá, Colombia. I studied a Business Management bachelor degree. I am a MBA and International trade master among some other things.
 
-🌱 Currently I am studying at Platzi.com, Becoming in Frontend developer and falling in love with Node and React, coming soon, Angular!
+🌱 Currently I am studying at Platzi.com, Becoming in Frontend developer and falling in love with Node and React, coming soon Angular!
 
-⚡ I love photography,  motorcycle travels, FPS Videogames and I am a really curious person.
+⚡ I love photography,  motorcycle travels, FPS Videogames and I am a very curious person.
 
-😄 Write me if you want to work with me in something, I will thank you all that I can learn from you!
+😄 You can write me an email so we can work together. I will thank everything you can teach me!
 
 💬 jd.rios.dev@gmail.com
 
